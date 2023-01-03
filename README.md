@@ -1,4 +1,4 @@
-# Deployment - Getaround
+# Deploiement - Getaround
 
 ## 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝗳𝘀 𝗱𝘂 𝗽𝗿𝗼𝗷𝗲𝘁 :
 ##### › Aider l'équipe marketing de Getaround à calculer le meilleur délai entre deux locations de voiture pour éviter les annulations de location
